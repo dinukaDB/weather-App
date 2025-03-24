@@ -34,6 +34,7 @@ button {
   font-weight: 500;
   font-family: inherit;
   background-color: #1a1a1a;
+  color: aliceblue;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -52,6 +53,7 @@ input {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
+  color: aliceblue;
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
